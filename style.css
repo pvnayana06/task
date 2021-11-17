@@ -1,0 +1,55 @@
+body
+{
+    display: block;
+}
+nav
+{
+    background-color: rgb(85, 231, 231);
+}
+ .navbar-brand img
+ {
+     max-height: 50px;
+ }
+ .navbar-brand
+ {
+     font-size:24px;
+     text-transform:uppercase;
+     color: rgb(51, 0, 0);
+ }
+ nav ul,li,a
+ {
+     color: rgb(107, 202, 11);
+     font-size: medium;
+     margin: auto 10px;
+ }
+ section
+ {
+     padding-top: 50px;
+     padding-bottom: 50px;
+ }
+ section h1
+ {
+     text-transform: uppercase;
+     font-weight: 900;
+     color: rgb(26, 25, 25);
+     text-align:left;
+     margin-bottom: 20px;
+ }
+ section p
+ {
+     font-size: medium;
+     font-weight: 900;
+ }
+button
+{
+    max-width: 50%;
+    border-radius: 50%;
+}
+
+footer 
+{
+text-align: center;
+padding: 8px;
+background-color: rgb(240, 209, 199);
+color: rgb(7, 5, 5);
+}
